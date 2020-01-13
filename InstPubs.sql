@@ -64,7 +64,7 @@ raiserror('Now at the create table section ....',0,1)
 
 GO
 
-CREATE TABLE personajes
+CREATE TABLE authors
 (
    au_id          id
 
